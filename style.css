@@ -18,6 +18,7 @@
     background-color: rgb(233, 33, 33);
     line-height: 3;
     text-align: center;
+    z-index: 1000;
 }
 canvas{
     border:5px solid red;
